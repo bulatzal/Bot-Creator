@@ -1,0 +1,28 @@
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\bin\Debug\netcoreapp3.1\Bot Creator.exe
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\bin\Debug\netcoreapp3.1\Bot Creator.deps.json
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\bin\Debug\netcoreapp3.1\Bot Creator.runtimeconfig.json
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\bin\Debug\netcoreapp3.1\Bot Creator.runtimeconfig.dev.json
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\bin\Debug\netcoreapp3.1\Bot Creator.dll
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\bin\Debug\netcoreapp3.1\Bot Creator.pdb
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot Creator.csprojAssemblyReference.cache
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot Creator.csproj.GenerateResource.cache
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot Creator.AssemblyInfoInputs.cache
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot Creator.AssemblyInfo.cs
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot Creator.csproj.CoreCompileInputs.cache
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot Creator.dll
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot Creator.pdb
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot Creator.genruntimeconfig.cache
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot_Creator.Properties.Resources.resources
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot_Creator.FormMain.resources
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot_Creator.FormVK.resources
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot_Creator.FormVKMain.resources
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot_Creator.FormVKKeyboard.resources
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot_Creator.FormTelegram.resources
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot_Creator.FormTelegramMain.resources
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot_Creator.FormTelegramInline.resources
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot_Creator.FormTelegramKeyboard.resources
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot_Creator.FormVKInline.resources
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot_Creator.FormVKSettings.resources
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot_Creator.FormDiscord.resources
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot_Creator.FormDiscordMain.resources
+C:\Users\Булат\source\repos\Bot Creator\Bot Creator\obj\Debug\netcoreapp3.1\Bot_Creator.FormDiscordSettings.resources
